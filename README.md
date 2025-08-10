@@ -17,14 +17,17 @@ The project includes two types of filters:
 - **User-Friendly CLI**: Interactive text-based interface for easy configuration
 
 ### Examples
+
+**ASCII Art Output:**
+![Example CLI 2](photos/example2.png "ASCII Art Result")
+
 **CLI Interface:**
 ![Example CLI](photos/example_cli.png "CLI Interface")
 
 **Source Image:**
 ![Source Image](photos/foto_test.jpg "Source Image")
 
-**ASCII Art Output:**
-![Example CLI 2](photos/example2.png "ASCII Art Result")
+
 
 ### How to Run
 **Prerequisites:**
