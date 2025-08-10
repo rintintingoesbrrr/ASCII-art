@@ -1,7 +1,7 @@
-char: chartranslate.cpp
-	g++ -std=c++11 -Wall -O2 -I. -o char chartranslate.cpp
+char: main.cpp
+	g++ -std=c++11 -Wall -O2 -I. -o main main.cpp
 
 clean:
-	rm -f char
+	rm -f main
 
 .PHONY: clean
